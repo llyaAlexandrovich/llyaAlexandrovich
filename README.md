@@ -1,6 +1,6 @@
 ## Skills
 
-<div>
+<div align=center>
     <div>
         <a href="https://cppreference.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="50" height="50" alt="c++" /></a>
         <a href="https://cppreference.com/w/c.html" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50" height="50" alt="c" /></a>
