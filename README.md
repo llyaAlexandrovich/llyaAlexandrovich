@@ -37,7 +37,7 @@
     <div>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50" height="50" alt="git" /></a>
         <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="50" height="50" alt="gitlab" /></a>
-        <a href="https://forgejo.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="[https://forgejo.org/images/forgejo-wordmark.svg](https://codeberg.org/forgejo/forgejo/media/branch/forgejo/assets/logo.svg)" width="50" height="50" alt="forgejo" /></a>
+        <a href="https://forgejo.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://codeberg.org/forgejo/forgejo/media/branch/forgejo/assets/logo.svg" width="50" height="50" alt="forgejo" /></a>
     </div>
 </div>
 
