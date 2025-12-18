@@ -1,6 +1,6 @@
 ## Skills
 
-<div align=center>
+<div>
     <div>
         <a href="https://cppreference.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="50" height="50" alt="c++" /></a>
         <a href="https://cppreference.com/w/c.html" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50" height="50" alt="c" /></a>
@@ -19,6 +19,25 @@
         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="50" height="50" alt="postgres" /></a>
         <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" width="50" height="50" alt="rabbitmq" /></a>
         <a href="https://redis.io/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="50" height="50" alt="redis" /></a>
+    </div>
+    <div>
+        <a href="https://ubuntu.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" width="50" height="50" alt="ubuntu" /></a>
+        <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width="50" height="50" alt="windows" /></a>
+        <a href="https://www.kali.org//" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" width="50" height="50" alt="kali" /></a>
+        <a href="https://www.debian.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Dark.svg" width="50" height="50" alt="debian" /></a>
+    </div>
+    <div>
+        <a href="https://neovim.io/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg" width="50" height="50" alt="neovim" /></a>
+        <a href="https://cmake.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CMake-Dark.svg" width="50" height="50" alt="cmake" /></a>
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="50" height="50" alt="docker" /></a>
+        <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Elasticsearch-Dark.svg" width="50" height="50" alt="elasticsearch" /></a>
+        <a href="https://prometheus.io/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg" width="50" height="50" alt="prometheus" /></a>
+        <a href="https://www.qt.io/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/QT-Dark.svg" width="50" height="50" alt="qt" /></a>
+    </div>
+    <div>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50" height="50" alt="git" /></a>
+        <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="50" height="50" alt="gitlab" /></a>
+        <a href="https://forgejo.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://forgejo.org/images/forgejo-wordmark.svg" width="50" height="50" alt="forgejo" /></a>
     </div>
 </div>
 
@@ -47,4 +66,4 @@
 
 ## LeetCode
 
-![](https://leetcard.jacoblin.cool/Krisgg?theme=light,unicorn?ext=contest)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Krisgg?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/Krisgg?theme=unicorn&extension=activity)
